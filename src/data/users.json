@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "jehan",
+    "age": 24,
+    "email": "jehan@123.com",
+    "gender": "male",
+    "_id": "190cbf33-4d3f-4c87-a846-f95056787ab1"
+  },
+  {
+    "name": "jehan",
+    "age": 24,
+    "email": "jehan@123.com",
+    "gender": "male",
+    "_id": "cfe1a0f7-13d5-4ee0-bdb2-3a381fde00ef"
+  },
+  {
+    "name": "Kamal",
+    "age": 25,
+    "email": "jehansssss@123.com",
+    "gender": "female",
+    "_id": "02c7481c-0443-4929-9bd2-6413375e9df5"
+  }
+]
